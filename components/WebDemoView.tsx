@@ -191,8 +191,11 @@ const WebDemoView: React.FC<WebDemoViewProps> = ({ template, onEndDemo }) => {
         setCallState('connectingAgent');
 
         try {
+            // Inject the specific greeting as requested
+            const greeting = `Hello? Helloowwww?! ${agent.firstSentence}`;
+
             // Use 'Kore' for consistent female voice in TTS for Gemini
-            const audioBlob = await dataService.generateTtsWithGemini(agent.firstSentence, 'Kore');
+            const audioBlob = await dataService.generateTtsWithGemini(greeting, 'Kore');
             const url = URL.createObjectURL(audioBlob);
             
             audioRef.current.src = url;
@@ -203,7 +206,8 @@ const WebDemoView: React.FC<WebDemoViewProps> = ({ template, onEndDemo }) => {
                 // Start background noise when agent connects
                 bgNoiseAudioRef.current?.play().catch(e => console.warn("Background audio play failed:", e));
                 startTimer();
-                setLocalTranscripts(prev => [...prev, {id: Date.now(), role: 'model', text: agent.firstSentence.replace(/<[^>]+>/g, ''), isFinal: true}]);
+                // Clean up the greeting text for display
+                setLocalTranscripts(prev => [...prev, {id: Date.now(), role: 'model', text: greeting.replace(/<[^>]+>/g, ''), isFinal: true}]);
             };
             
             audioRef.current.onended = async () => {
