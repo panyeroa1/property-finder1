@@ -1,0 +1,381 @@
+{
+  "english_us": [
+    "Like", "You know", "I mean", "Honestly", "Seriously", "Right?", "Kinda", "Sorta", "Basically", "Literally", "Anyway", "Huh?", "Oh wow", "Oh my god", "No way", "Hold on", "Come on", "For real?", "Let me think", "Gotcha", "Cool cool", "Wait what", "Dude", "Bro", "Man..."
+  ],
+  "english_uk": [
+    "Right then", "Bloody hell", "Brilliant", "Lovely", "Mate", "Cheers", "Quite right", "Hang on", "Come off it", "Fancy that", "Honestly now", "Blimey", "Well then", "Actually", "Not bad", "Proper", "You alright?", "Ta", "That’s odd", "Oh dear", "I suppose", "Mind you", "Fair enough", "Alright love"
+  ],
+  "spanish_latin_am": [
+    "Oye", "Ándale", "Vale", "Bueno", "Mira", "¿Sabes?", "¿En serio?", "Ay dios mío", "Caramba", "Híjole", "Uff", "Pues", "Claro", "No manches", "Espera", "Qué raro", "Qué bueno", "Ya ya", "Madre mía", "Qué pasa", "Hombre", "Ay qué pena", "Órale", "Hostia"
+  ],
+  "portuguese_brazil": [
+    "Nossa", "Eita", "Beleza", "Tipo assim", "Uai", "Peraí", "Sério?", "Caramba", "Meu Deus", "Mano", "Tô ligado", "Fala sério", "Que legal", "Imagina", "Pois é", "Fechou", "Tranquilo", "Né?", "Ah tá", "Valeu", "Oxe", "Deus me livre", "Top", "Falou"
+  ],
+  "portuguese_portugal": [
+    "Pois", "Estás a ver?", "Pá", "Fixe", "Ora bem", "Pronto", "Se calhar", "Olha lá", "Epá", "A sério?", "Bora", "Desculpa lá", "Tás bom?", "Nada disso", "Com certeza", "Jesus", "Espera aí", "Porreiro", "Fogo", "Chiça", "Diz lá", "Pois é", "Então vá", "Adeusinho"
+  ],
+  "french": [
+    "Eh", "Bon", "Voilà", "Alors", "Bah oui", "Bah non", "C’est ça", "Mon dieu", "Attends", "Quoi?", "Pardon?", "Sérieusement", "Incroyable", "D’accord", "Comme ça", "Mais oui", "Enfin", "Bref", "Oh là là", "Pas possible", "Voilà voilà", "Très bien", "Ben écoute", "Ça marche"
+  ],
+  "italian": [
+    "Eh", "Allora", "Mamma mia", "Dai", "Boh", "Va bene", "Capito?", "Aspetta", "Che cosa?", "Ma dai", "Per favore", "Eh sì", "Eh no", "Che bello", "Dio mio", "Piano piano", "Certo certo", "Madonna", "Guarda", "Bene bene", "Ma che dici", "Andiamo", "Ecco"
+  ],
+  "german": [
+    "Ja ja", "Genau", "Also", "Ach so", "Bitte moment", "Hm okay", "Wirklich?", "Sehr gut", "Na gut", "Ach nein", "Echt?", "Warte mal", "Oh mann", "Tja", "Doch", "Kein Problem", "Bitte schön", "Na klar", "Alles klar", "Moment bitte", "Jawohl", "Ach ja", "Naja...", "Genau richtig"
+  ],
+  "dutch_flemish": [
+    "Ja kijk", "Amai", "Allez", "Komaan", "Wacht hé", "Azo?", "Echt waar?", "Seg", "Tja", "Zot zeker", "Aja ja", "Awel", "Gij weet wel", "Hoh man", "Nee jong", "Oei", "Ja lap", "Doe normaal", "Voila", "Serieus hé", "Allé vooruit", "Chique eh", "Amai zeg"
+  ],
+  "russian": [
+    "Nu", "Koroche", "Davai", "Bozhe moi", "Seriozno?", "Slushai", "Ponyatno", "Ladno", "Konechno", "Tak", "Ooi", "Da ladno", "Podo zhdi", "Tochno", "Vau", "Aga", "Ne mozhet byt", "Nu vot", "Spasibo", "Klass", "Blin", "Kstati", "Vozmozhno", "Interesno"
+  ],
+  "ukrainian": [
+    "Tak", "Ni", "Dobre", "Chekai", "Seryozno?", "Bozhe", "Ta nu", "Slukhai", "Yak spravy?", "Zvisno", "Bud laska", "Oi", "Super", "Klass", "Mozhlyvo", "Harasd", "Tochno", "Diakuyu", "Buvai", "Ta ty sho", "Divys", "Pochekai", "Nichoho sobi", "Spokiino"
+  ],
+  "polish": [
+    "No", "Kurczę", "Masakra", "Serio?", "Weź", "Czekaj", "Wiesz", "Dokładnie", "Ojej", "Jezu", "No nie", "Słuchaj", "Spoko", "Dobra", "Aha", "No co ty", "W sumie", "Jasne", "Chodź", "Dzięki", "Fajnie", "W porządku", "Niemożliwe", "O rany"
+  ],
+  "turkish": [
+    "Yani", "Tamam", "Şey", "Hani", "Vallahi", "Cidden", "Ya", "Abi", "Abla", "Aynen", "Bir dakika", "Ha?", "Efendim?", "Yok artık", "Of ya", "Evet evet", "Yavaş yavaş", "Kolay gelsin", "Şaka mı?", "Olur olur", "Bir saniye", "Çok güzel", "Allah Allah", "İnanmıyorum", "Yapma ya"
+  ],
+  "greek": [
+    "Ela", "Ne", "Ochi", "Endaxei", "Po po", "Malaka", "Re", "Sigoura?", "Perimene", "Ti les?", "Aman", "Bravo", "Oriste", "Siga", "Lipon", "Pame", "Ti kaneis?", "Etsi", "Enta", "Kita", "Apla", "Entaxei", "Ti?", "Efharisto"
+  ],
+  "arabic_levantine": [
+    "Yalla", "Inshallah", "Wallah", "Habibi", "Habibti", "Shukran", "Aiwa", "Mashallah", "Ya salam", "Astaghfirullah", "Yaani", "Khalas", "Bas", "Tayyib", "Laish?", "Shu hada?", "Enta fahim?", "Sabr shway", "La hawla", "Tayyib yallah", "Shoofi", "Shoof", "Mash keda"
+  ],
+  "persian_farsi": [
+    "Na baba", "Vaghan?", "Bale", "Areh", "Khob", "Basheh", "Sabr kon", "Bebakhshid", "Ey val", "Joon", "Ghorbanet", "Chetori?", "Boro baba", "Akh", "Khoda", "Merci", "Hala", "Chera?", "Chi?", "Doroste", "Ghalat kardam", "Afarin", "Begoo", "Faghat"
+  ],
+  "hebrew": [
+    "Yalla", "Nu", "Sababa", "Achla", "Ken ken", "Lo lo", "Bemet?", "Yofi", "Regga", "Ma nishma?", "Tov", "Ehh", "Kapara alek", "Chaval", "Stam", "Davka", "Pashut", "Beseder", "Ta’ase li tova", "Eize keta", "Yesh", "Ahalan", "Balagan"
+  ],
+  "hindi_indian_english": [
+    "Arre yaar", "Accha", "Haan haan", "Are baba", "Thoda sa", "Bas", "Kya?", "Hmm okay", "Seriously yaar", "Theek hai", "Achha listen", "Oho", "One second", "Aiyo", "Kya baat", "Are wah", "Chal theek", "Arre nahi", "Acha acha", "Dekho", "Let me check", "Jaldi bolo", "Arre yeh kya"
+  ],
+  "urdu": [
+    "Arey yaar", "Achha", "Sahi hai", "Haan bhai", "Kya hua?", "Ruko zara", "Bas kar", "Sach mein?", "Uff Allah", "Chalo", "Theek hai", "Sunao", "Kasam se", "Dekho", "Jaldi karo", "Koi baat nahi", "Arrey wah", "Hato", "Bilkul", "Shukriya", "Janab", "Bhai", "Khuda Hafiz", "Kya baat hai"
+  ],
+  "bengali": [
+    "Aare", "Accha", "Thik ache", "Shon", "Darao", "Ki holo?", "Sotti?", "Dhur", "Bapare", "O ma", "Hae", "Na na", "Tai naki?", "Dekhi", "Cholo", "Bes", "Dhat teri", "Ki bolcho", "Aste", "Thako", "Ei je", "Onek hoyeche", "Shoro"
+  ],
+  "mandarin": [
+    "Aiya", "Aiyo", "Hao ma?", "Mei guanxi", "Shenme?", "En", "Hao hao", "Zhen de?", "Bu yao", "Deng yi xia", "Bu hui ba", "Hen hao", "Xiexie ah", "Keyi keyi", "Wo kan kan", "Hao la", "Bu cuo", "Qing wen", "Shi ma?", "Zeme yang?", "Ai yo", "Meiyou ba"
+  ],
+  "japanese": [
+    "Ano", "Eto", "Hai", "Sou desu ne", "Ee?", "Chotto matte", "Honto ni?", "Ehh", "Maa maa", "Yappari", "Ara", "Sou ka", "Gomen", "Daijoubu", "Sugoi", "Kawaii", "Maji de", "Ne", "Wakatta", "Yada", "Arigato ne", "Hee...", "Aaa sou"
+  ],
+  "korean": [
+    "Ah", "Yah", "Aigoo", "Jinjja?", "Daebak", "Omo omo", "Hajima", "Wae?", "Arasseo", "Jamkkan", "Aish", "Geurae", "Molla", "Ne ne", "Ani ani", "Heol", "Geunde", "Jeongmal", "Hajiman", "Wah", "Aigo", "Eyyyy", "Ahh geuraeyo?"
+  ],
+  "filipino_tagalog": [
+    "Ah ganun?", "Ano ba", "Wait lang", "Ay naku", "Grabe naman", "Seryoso?", "Susmaryosep", "Parang", "Alam mo yun", "Diba", "Medyo ano", "Kumusta naman", "Ayyy sorry po", "Naks naman", "Sandali lang", "Pasensya na", "Ay oo nga", "Hindi ah", "Syempre naman", "Hala uy", "Ewan ko sayo", "Promise ha", "Charot", "Loko ka"
+  ],
+  "vietnamese": [
+    "Trời ơi", "Cái gì?", "Khoan đã", "Thiệt hả?", "Vâng", "Dạ", "Thôi đi", "À nè", "Đúng rồi", "Hả?", "Chán ghê", "Ê này", "Được thôi", "Cố lên", "Không sao", "Biết rồi", "Từ từ", "Ôi chao", "Ừm", "Cảm ơn", "Vãi", "Alo", "Ok luôn", "Tuyệt vời"
+  ],
+  "thai": [
+    "Jing lor?", "Chai", "Mai chai", "Ao", "Oii", "Deow na", "Krup/Ka", "555", "Arai na?", "Jing di", "Kor tode", "Sabai sabai", "Na", "Ok na", "Plao", "Chai mai", "Su su", "Ma", "Mai pen rai", "Ummm", "Laew gor", "Diao", "Jing ah"
+  ],
+  "indonesian": [
+    "Lho", "Kok", "Masa sih?", "Bentar", "Aduh", "Ya ampun", "Gimana ya", "Oke deh", "Siap", "Beneran?", "Waduh", "Sabar", "Santai aja", "Gak apa-apa", "Eh", "Nah", "Tuh kan", "Ih", "Mantap", "Yuk", "Boleh", "Astaga", "Serius?", "Anjay"
+  ],
+  "malay": [
+    "Lah", "Betul ke?", "Jom", "Sat", "Aduh", "Alamak", "Biar betul", "Tak pe", "Boleh lah", "Ye ke?", "Macam mana?", "Okay kot", "Tunggu jap", "Halamak", "Mestilah", "Habis tu?", "Amboi", "Rilek lah", "Serius ah?", "Tahu tak", "Cun", "Best gila", "Tengok lah"
+  ],
+  "swahili": [
+    "Sawa", "Hapana", "Kweli?", "Ngoja", "Basi", "Asante", "Pole", "Haraka", "Sikiliza", "Jamani", "Hebu", "Sawa sawa", "Hamna shida", "Acha", "Twende", "Kumbe", "Oya", "Salama", "Ndiyo", "Haya", "Poa", "Safi", "Karibu", "Mambo"
+  ],
+  "swedish": [
+    "Jaha", "Okej då", "Asså", "Liksom", "Typ", "Nämen", "Precis", "Eller hur", "Men gud", "Oj oj", "Ja ja", "Nej nej", "Aha okej", "Va?", "Alltså seriöst", "Vänta lite", "Inte riktigt", "Faktiskt", "Jahapp", "Herregud", "Skitsamma", "Jodå", "Nähä"
+  ],
+  "norwegian": [
+    "Ja ja", "Nei nei", "Ikke sant?", "Liksom", "Okei da", "Herregud", "Hæ?", "Jaha", "Vent litt", "Seriøst?", "Fy søren", "Å herlighet", "På ekte", "Nemlig", "Greit nok", "Egentlig", "Javel", "Oi oi", "Hmm ja", "Slapp av", "La meg se", "Jo da", "Ja vel ja"
+  ],
+  "danish": [
+    "Altså", "Okay så", "Hva’ så?", "Seriøst?", "Øh", "Hmm ja", "Nå nå", "For fanden", "Ej stop", "Vent lige", "Hold da op", "Hva' mener du?", "Det går", "Ikke helt", "Ej men altså", "Nå ja", "Det er fint", "Ja ja", "Rolig nu", "Det siger du ikke", "Arh okay", "Hva' nu det?"
+  ],
+  "finnish": [
+    "No niin", "Joo joo", "Ai jaa", "Öö", "Siis", "Aivan", "Hetkinen", "Anteeksi mitä?", "Okei okei", "Hmm jep", "Kyllä kyllä", "Ei ei", "Niinkö?", "Ahaa", "Vai niin", "Noniin sehän", "Ihan totta?", "Oho", "Mitä ihmettä", "Hetki vain", "Jaa-a", "Näin se on"
+  ],
+  "icelandic": [
+    "Jæja", "Já já", "Nei nei", "Hvað meinarðu?", "Allt í lagi", "Bíddu aðeins", "Hæ?", "Úff", "Ókei", "Vá", "Ég skil", "Jamm", "Humm", "Nei hættu", "Alvöru?", "Sko", "Jæja nú", "Allavega", "Já helvíti", "Svei mér þá"
+  ],
+  "czech": [
+    "No jo", "No ne", "Tak počkej", "Cože?", "Fakt?", "Ty jo", "No tak", "V pohodě", "Počkej chvíli", "Dobře dobře", "Jasně", "Není zač", "Ale no tak", "Co to je?", "To snad ne", "Ježiši", "No dobře", "Tak jo", "Nějak tak", "Hele", "No právě"
+  ],
+  "slovak": [
+    "Hej hej", "No dobre", "Počkaj chvíľu", "Fakt?", "Čože?", "Do kelu", "No jasné", "Ale prosím ťa", "Poď sem", "Tak počkaj", "Presne tak", "No vidíš", "Dobre teda", "Nevadí", "Vážne?", "Nemyslíš vážne", "Tak nič", "No dobre dobre", "Ako chceš", "Veď hej"
+  ],
+  "hungarian": [
+    "Jó jó", "Na jó", "Hát persze", "Várj csak", "Komolyan?", "Tényleg?", "Hát igen", "Jajj ne", "Egy pillanat", "Hűha", "Mit csinálsz?", "Na tessék", "Hát ez az", "Oké oké", "Nem hiszem el", "Jó van", "Na mindegy", "Jó ég", "Mi van?", "Hát jó"
+  ],
+  "romanian": [
+    "Da da", "Nu nu", "Serios?", "Hai mă", "Stai puțin", "Ce?", "Doamne", "Aoleu", "Bine bine", "Gata gata", "Măi frate", "Pe bune?", "Ce faci?", "Nu cred", "Un pic", "Perfect", "Așa", "Hai că merge", "E ok", "Nu e problemă"
+  ],
+  "bulgarian": [
+    "Да бе", "Айде де", "Чакай малко", "Сериозно?", "Абе ти нормален ли си?", "Добре добре", "Ох боже", "Ееее", "Я стига", "Какво?", "Браво бе", "Не мога", "Ей така", "Спокойно", "Горкичкия", "Айде моля ти се", "Няма проблем", "Как така?", "Да да", "Леле мале"
+  ],
+  "serbian": [
+    "Alo bre", "Ma daj", "Čekaj malo", "Ozbiljno?", "Majko mila", "Ajde dobro", "Šta?", "Ma nema veze", "Ajde bre", "Daj molim te", "Jaooo", "Nije moguće", "Ma naravno", "Ok ok", "Baš tako", "Nema problema", "Aha dobro", "Vidim ja", "Što bre?", "Ma ne zezaj"
+  ],
+  "croatian": [
+    "Ma daj", "Čekaj malo", "Ozbiljno?", "Ajme meni", "Ma ne", "Dobro dobro", "Šta je sad?", "Ajde molim te", "Pa naravno", "Ajde onda", "Nemoguće", "Aha oke", "Nema frke", "Ajd super", "Čuj mene", "Točno tako", "Pa da", "Ajme", "Uf dobro", "Pa naravno"
+  ],
+  "bosnian": [
+    "Ma jok", "Evo brate", "Čekaj sekund", "Jesi normalan?", "Čuj to", "Ma daj", "Ozbiljno ba?", "Alo bolan", "Dobro dobro", "Nemoj zezati", "Jao ba", "Pa šta onda", "Ajmo dalje", "Nema veze", "Fakat?", "Vala baš", "Šta ima?", "De bolan", "Neka neka", "Ma kako da ne"
+  ],
+
+  "english_us_sentences": [
+    "Like, I was just checking your budget again, it’s kinda tight for that area.",
+    "You know, we can totally look a bit outside the center to get you more space.",
+    "I mean, honestly, this listing is basically perfect for what you described.",
+    "Seriously, if you can stretch the budget a little, the options get way better."
+  ],
+  "english_uk_sentences": [
+    "Right then, based on your budget, this flat is actually quite brilliant.",
+    "Hang on, I’ll just double-check the distance to the station for you, mate.",
+    "Honestly now, that area is lovely if you don’t mind a slightly longer commute.",
+    "Fair enough, if you’d rather stay central, we’ll keep the search tighter, alright love?"
+  ],
+  "spanish_latin_am_sentences": [
+    "Oye, con ese presupuesto podemos buscar algo más tranquilo pero bien comunicado.",
+    "Mira, este departamento está cerca del metro, ¿sabes?, eso ayuda muchísimo.",
+    "¿En serio? Con ese rango podemos conseguir algo más grande, claro que sí.",
+    "Ay dios mío, esa zona subió de precio rápido, pero aún hay buenas opciones."
+  ],
+  "portuguese_brazil_sentences": [
+    "Nossa, com esse orçamento dá pra pegar um lugar bem legal, beleza?",
+    "Tipo assim, se você topar sair um pouco do centro, a gente ganha mais espaço.",
+    "Sério? Então fechou, eu vou filtrar os imóveis com varanda pra você.",
+    "Pois é, o mercado ali tá puxado, mas ainda tem opções tranquilas."
+  ],
+  "portuguese_portugal_sentences": [
+    "Epá, com esse orçamento, estás a ver, conseguimos algo porreiro mas não no centro.",
+    "Ora bem, se quiseres mais espaço, pronto, temos de ir um bocadinho mais para fora.",
+    "Pois é, essa zona é fixe, mas ficou mais cara nos últimos anos.",
+    "Então vá, eu junto mais três opções e mandamos tudo numa lista simples."
+  ],
+  "french_sentences": [
+    "Alors, avec ce budget, franchement, on peut trouver quelque chose de très correct.",
+    "Bah oui, si tu veux rester proche du centre, il faudra peut-être réduire un peu la surface.",
+    "Mon dieu, ces prix ont vraiment augmenté dans ce quartier, c’est incroyable.",
+    "Bref, on va garder ces trois appartements comme options principales, ça marche ?"
+  ],
+  "italian_sentences": [
+    "Allora, con questo budget, dai, troviamo qualcosa di carino in periferia.",
+    "Mamma mia, in centro i prezzi sono saliti tanto, eh sì, parecchio.",
+    "Boh, se vuoi più spazio, va bene, ma ti allontani un po’ dal lavoro.",
+    "Eh sì, questo appartamento è piccolo ma la zona è davvero bella."
+  ],
+  "german_sentences": [
+    "Also, mit diesem Budget, ja ja, da kriegen wir was Vernünftiges, aber nicht mitten im Zentrum.",
+    "Genau, wenn der Arbeitsweg kürzer sein soll, müssen wir hier ein bisschen Kompromisse machen.",
+    "Warte mal, ich checke kurz die Nebenkosten von dieser Wohnung.",
+    "Echt? Dann ist diese Gegend vielleicht doch besser für dich, alles klar."
+  ],
+  "dutch_flemish_sentences": [
+    "Ja kijk, met dat budget, amai, gaan we waarschijnlijk iets net buiten het centrum zoeken.",
+    "Allez, als ge meer tuin wilt, dan moet ge wel een beetje verder rijden hé.",
+    "Amai zeg, die prijzen zijn daar zot zeker omhoog gegaan de laatste jaren.",
+    "Wacht hé, ik pak nog twee opties erbij, dan hebt ge wat te vergelijken."
+  ],
+  "russian_sentences": [
+    "Nu, s takim byudžetom, koroche, my mozhem posmotret’ rajony chut’ dal’she ot centra.",
+    "Slushai, esli tebe važna tishina, to vot etot variant očen’ ponyatno podhodit.",
+    "Da ladno, ceni tam tak sil’no vyrosli? Blin, eto seriozno.",
+    "Nu vot, u tebya est’ tri normal’nyh varianta, konechno, my možem potom suzit’ spisok."
+  ],
+  "ukrainian_sentences": [
+    "Tak, z takim biudzhetom dobre, mozhlyvo, kraще podumaty pro rayon troshky dalishi vid centra.",
+    "Slukhai, yakshcho tobi vazhlyvo, shchob bulo tykho, tsej variant tochno pidkhodyt.",
+    "Ta nu, tsiny tam tak vyrosly? Nichoho sobi.",
+    "Dobře, ya skazhu tak: zvisno, ye ryzyk, ale my mozhemo zibraty paru stabil’nyh opcij."
+  ],
+  "polish_sentences": [
+    "No, z takim budżetem, wiesz, raczej szukamy czegoś poza ścisłym centrum.",
+    "Serio? Jeśli chcesz większy metraż, to trochę dalej będzie lepsza opcja.",
+    "Czekaj, sprawdzę dokładnie, ile wynoszą opłaty dodatkowe za to mieszkanie.",
+    "Spoko, mamy już kilka fajnych opcji, więc możemy na spokojnie porównać."
+  ],
+  "turkish_sentences": [
+    "Yani, bu bütçeyle merkezde biraz zor ama biraz dışarıda çok güzel yerler var.",
+    "Aynen, eğer sessiz bir mahalle istersen, biraz daha uzak bakmamız lazım.",
+    "Of ya, o semtte kiralar vallahi ciddi yükselmiş.",
+    "Cidden, bu dairenin fiyatı iyi, ama bir dakika, aidatı da bir kontrol edelim."
+  ],
+  "greek_sentences": [
+    "Ela, me toso budget, lipon, mporei na vroume kati kali se mia pio isych i geitonia.",
+    "Po po, oi times sto kentro exoun anevei poly, re.",
+    "Endaxei, an thes perissotero choro, prepei na pame ligo pio makria.",
+    "Lipon, an sou kanei afto to spiti, pame na doume kai ta krevatodomatia apo konta."
+  ],
+  "arabic_levantine_sentences": [
+    "Yalla, ma’a hal budget, mumkin nel’a shaka helwe bas mish kteer qarib min el markaz.",
+    "Wallah, iza biddak saket w rai’, fi hay elly kteer monaseb lek.",
+    "Laish la? Fi kam ikhtiyar helou, bas sabr shway la nenzem el’as’ar.",
+    "Tayyib yallah, shoofi had el-mantaqa, ‘anha mashhoora innaha hadi w amniya."
+  ],
+  "persian_farsi_sentences": [
+    "Na baba, ba in budget ham mishe ye ja-ye khob peida kard, faghat na vasat-e shahr.",
+    "Vaghan? Agar bishtar faza mikhay, khob, bayad ye kam durtar ravim.",
+    "Sabr kon, man inqeimat va hazineh-haye janebi ro ham chek mikonam.",
+    "Ey val, in manteqe khob-e, ama khoda, gheymatash ye kam bala rafte akharan."
+  ],
+  "hebrew_sentences": [
+    "Nu, im ha-budget hazeh, beseder, nitz’tarech latset ktzat meha-merkaz.",
+    "Sababa, im be’emet chashuv lecha shaket, yesh shchunot achla ba’ikar la-mishpacha.",
+    "Bemet? Ha-mechirim sham alu mamash, balagan.",
+    "Beseder, ani ose seder ba-opziyot veachzor elecha im shalosh deirot ikariyot."
+  ],
+  "hindi_indian_english_sentences": [
+    "Arre yaar, with this budget na, we’ll probably have to go thoda sa outside main city.",
+    "Theek hai, agar tumhe zyada shanti chahiye, then we look a bit further, okay?",
+    "Seriously yaar, iss area mein prices kaafi upar chale gaye hain.",
+    "Achha listen, pehle main teen options short-list karta hoon, phir calmly dekhte hain."
+  ],
+  "urdu_sentences": [
+    "Arey yaar, is budget ke saath, sahi hai, lekin thoda sa bahar dekhna padega.",
+    "Ruko zara, main zara check karta hoon ke kiraye ke saath saath bills kitne honge.",
+    "Sach mein? Us area mein toh rent kaafi oopar chala gaya hai.",
+    "Chalo, theek hai, hum pehle kuch options dekh lete hain, phir aaram se decide karenge."
+  ],
+  "bengali_sentences": [
+    "Aare, ei budget e thik ache, kintu shohorer majhkhane kichu ta oshubidha hobe.",
+    "Shon, jodi tumi ektu dure thakte par, tahole amra beshi jayga pabo.",
+    "Sotti? Oi elakay bapar ta onek beshi daam hoye geche ekhon.",
+    "Thik ache, ami prothome du–tin ta bhalo option tule dhorchi, tarpor dekhi."
+  ],
+  "mandarin_sentences": [
+    "Aiya, zhege yusuan yao zhao chengzhongxin de fangzi youdian nan.",
+    "Mei guanxi, women keyi kan kan chengshi waiyuan, fangzi hui da yi xie.",
+    "Zhen de? Na ge diqu de fangjia zhen de sheng gao le.",
+    "Hao la, wo xian zuo ge jian dan de liebiao, ni kankan shifou he ni de xuqiu."
+  ],
+  "japanese_sentences": [
+    "Ano, kono budget da to, chotto chūshin-bu wa muzukashii desu ne.",
+    "Sou desu ne, sukoshi tōku ni sureba, mou sukoshi hiroi ie ga mitsukarimasu.",
+    "Honto ni? Kono chikaku no chika ga konna ni takakunatta n desu ka.",
+    "Eto, jaa, watashi ga san ken kurai erande, anata ni shoukai shimasu ne."
+  ],
+  "korean_sentences": [
+    "Jinjja? I budget-ro neun sijang apgyeon-e jogeum himdeul su isseoyo.",
+    "Geunde, jogeum deo meoreojimyeon bang-eul deo keuge guhal su iss-eoyo.",
+    "Heol, geu jiyeok wolse ga jinjja manhi ollasseo.",
+    "Geurae, jamkkan, naega se beonji jjokjjokhan bang-eul chajaseo allye julge."
+  ],
+  "filipino_tagalog_sentences": [
+    "Ay naku, sa ganyang budget, medyo mahirap sa pinaka-sentro pero may magaganda pa rin sa gilid.",
+    "Wait lang, check ko lang kung gaano kalayo ‘to sa trabaho mo.",
+    "Grabe naman, tumaas na talaga ‘yung presyo sa area na ‘yon.",
+    "Syempre naman, gusto natin ‘yung bahay na hindi ka masistress buwan-buwan sa renta."
+  ],
+  "vietnamese_sentences": [
+    "Trời ơi, với ngân sách này thì ở trung tâm hơi khó đấy.",
+    "Khoan đã, nếu mình đi xa hơn một chút thì nhà sẽ rộng hơn nhiều.",
+    "Thiệt hả? Giá ở khu đó bây giờ cao vậy luôn sao?",
+    "Được thôi, để tôi lọc ra vài căn phù hợp rồi mình xem lần lượt."
+  ],
+  "thai_sentences": [
+    "Jing lor? ด้วยงบแบบนี้นะ อาจจะต้องออกไปนอกเมืองนิดนึงนะ.",
+    "Mai pen rai, ถ้าอยากได้ที่เงียบ ๆ หน่อย เดี๋ยวเราไปดูโซนอื่นได้.",
+    "Oii, แถวนั้นตอนนี้ราคาแรงมากเลยนะ.",
+    "Ok na, เดี๋ยวฉันรวบรวมตัวเลือกดี ๆ ให้ก่อนแล้วค่อยดูทีละอัน."
+  ],
+  "indonesian_sentences": [
+    "Lho, dengan budget segini, kok masih mau di tengah kota? Bentar, kita lihat dulu ya.",
+    "Masa sih? Kalau agak ke pinggiran, kamu bisa dapet rumah lebih luas, santai aja.",
+    "Ya ampun, harga sewa di daerah itu sudah naik cukup jauh.",
+    "Oke deh, aku siapin beberapa opsi mantap dulu, nanti kita bandingkan pelan-pelan."
+  ],
+  "malay_sentences": [
+    "Alamak, dengan bajet macam ni, susah sikit nak duduk betul-betul tengah bandar.",
+    "Tak pe, kalau sanggup pergi sikit jauh, kita boleh dapat rumah lebih besar.",
+    "Betul ke? Area tu sekarang memang naik harga teruk.",
+    "Okay kot, saya kumpulkan dulu beberapa pilihan, lepas tu kita tengok sama-sama."
+  ],
+  "swahili_sentences": [
+    "Sawa, kwa bajeti hii, hatutapata katikati ya jiji, lakini bado tunaweza kupata mahali pazuri.",
+    "Ngoja, niangalie kwanza umbali kutoka hapa hadi kazini kwako.",
+    "Kweli? Bei za nyumba katika eneo hilo zimepanda sana siku hizi.",
+    "Hamna shida, nitakutafutia chaguzi chache halafu tutajadiliana kwa utulivu."
+  ],
+  "swedish_sentences": [
+    "Asså, med den här budgeten blir det lite svårt mitt i stan.",
+    "Jaha, om du kan tänka dig att bo lite längre bort, får du mycket mer yta.",
+    "Men gud, priserna i det området har verkligen dragit iväg.",
+    "Okej då, jag plockar fram några bra alternativ så kan vi jämföra i lugn och ro."
+  ],
+  "norwegian_sentences": [
+    "Ja ja, med det budsjettet blir det litt vanskelig midt i sentrum.",
+    "Ikke sant? Hvis du flytter litt lenger ut, får du mer plass for pengene.",
+    "Herregud, prisene der har gått ganske mye opp i det siste.",
+    "Greit nok, jeg finner noen aktuelle leiligheter, så ser vi på dem sammen."
+  ],
+  "danish_sentences": [
+    "Altså, med det budget, hva’ så, vi skal nok lidt uden for centrum.",
+    "Vent lige, jeg tjekker lige hvor langt der er til din arbejdsplads.",
+    "For fanden, priserne i det område er virkelig stukket af.",
+    "Ej men altså, jeg laver lige en lille liste til dig, så kan vi tage dem én for én."
+  ],
+  "finnish_sentences": [
+    "No niin, tällä budjetilla keskusta on vähän haastava.",
+    "Hetkinen, jos mennään hieman kauemmas, saadaan paljon enemmän tilaa.",
+    "Ai jaa, ne hinnat siinä kaupunginosassa ovat nousseet tosi paljon.",
+    "Okei okei, mä kerään muutaman hyvän vaihtoehdon, ja sitten katsotaan rauhassa."
+  ],
+  "icelandic_sentences": [
+    "Jæja, með þetta budget er aðeins erfiðara að fá í miðbænum.",
+    "Bíddu aðeins, ef við förum aðeins út fyrir, fáum við stærra húsnæði.",
+    "Vá, verðin í þessu hverfi hafa hækkað mikið nýlega.",
+    "Allavega, ég tek saman nokkur góð dæmi og svo ræðum við þau saman."
+  ],
+  "czech_sentences": [
+    "No jo, s takovým rozpočtem je centrum trochu problém.",
+    "Počkej chvíli, když půjdeme trochu dál od centra, získáš víc prostoru.",
+    "Fakt? Ceny v téhle čtvrti šly docela dost nahoru.",
+    "Dobře dobře, připravím ti pár možností a v klidu si je projdeme."
+  ],
+  "slovak_sentences": [
+    "Hej hej, s týmto rozpočtom to bude v centre ťažké.",
+    "Počkaj chvíľu, ak pôjdeme trochu ďalej, získame väčší byt za tie isté peniaze.",
+    "Fakt? V tejto lokalite išli ceny dosť hore.",
+    "No dobre, pripravím ti pár reálnych možností a potom sa rozhodneme."
+  ],
+  "hungarian_sentences": [
+    "Na jó, ezzel a kerettel a belváros elég nehéz lesz.",
+    "Várj csak, ha egy kicsit kijjebb megyünk, sokkal nagyobb lakást kaphatsz.",
+    "Tényleg? Abban a környékben ennyire felmentek az árak?",
+    "Oké oké, összeszedek pár normális opciót, aztán nyugodtan átnézzük őket."
+  ],
+  "romanian_sentences": [
+    "Da da, cu bugetul ăsta, în centru e cam greu.",
+    "Hai mă, dacă mergem puțin mai departe, luăm ceva mai mare și mai liniștit.",
+    "Serios? Prețurile în zona aia chiar au crescut mult.",
+    "Bine bine, adun câteva opțiuni bune și apoi le analizăm împreună."
+  ],
+  "bulgarian_sentences": [
+    "Айде де, с този бюджет в центъра ще е малко трудно.",
+    "Чакай малко, ако отидем по-навън, ще вземем доста по-голям апартамент.",
+    "Сериозно? Цените в този квартал са се вдигнали толкова много?",
+    "Добре добре, ще ти подготвя няколко варианти и после спокойно ще решим."
+  ],
+  "serbian_sentences": [
+    "Ma daj, s ovim budžetom u samom centru biće baš teško.",
+    "Čekaj malo, ako odemo malo dalje, dobićeš mnogo veći prostor.",
+    "Ozbiljno? U tom delu grada su cene baš otišle gore.",
+    "Ajde dobro, skupiću par normalnih opcija pa ćemo posle fino da uporedimo."
+  ],
+  "croatian_sentences": [
+    "Ma daj, s ovakvim budžetom u centru će biti dosta teško.",
+    "Čekaj malo, ako izađemo malo iz centra, dobit ćeš puno veću kvadraturu.",
+    "Ozbiljno? U tom kvartu su cijene stvarno otišle gore.",
+    "Dobro dobro, složit ću ti nekoliko opcija pa ih možemo lagano proći."
+  ],
+  "bosnian_sentences": [
+    "Ma jok, s tim budžetom u samom centru teško da ćemo šta naći.",
+    "Čekaj sekund, ako odemo malo dalje, imaš puno više prostora za iste pare.",
+    "Ozbiljno ba? Cijene u tom kraju su fakat otišle gore.",
+    "Dobro dobro, ja ću ti pripremiti par opcija pa ćemo onda fino sjesti i pogledati."
+  ]
+}
